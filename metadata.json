@@ -1,0 +1,7 @@
+{
+  "name": "GlobeFin AI",
+  "description": "A comprehensive currency converter and international financial news aggregator powered by Gemini AI, featuring live rates, location-based updates, and high-fidelity image generation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
